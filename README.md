@@ -47,10 +47,9 @@
 <p>
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
-<h3 align="left"> Language and tools</h3>
+<div align="center">
+  <img height="350" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7"  />
+</div>
 
 ###
 
