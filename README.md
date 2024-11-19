@@ -47,12 +47,14 @@
 <p>
 
 <!-- GIF -->
-<div align="center">
-  <img height="350" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7"  />
+<br clear="both">
+
+<div align="left">
+  <img height="400" src="https://i.pinimg.com/originals/06/e2/0f/06e20fac9ae6bd96981f8da9ee81d48f.gif"  />
 </div>
 
 ###
-
+<h3 align="left"> Language and tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="12" />
