@@ -32,7 +32,7 @@
 <p>
   Hi 👋, I'm Demi! A passionate Software engineering student from Brazil.
 
-  - 🌱 I’m currently studying software enginner in <img align="center" alt="html5" src="https://img.shields.io/badge/UPE-d10000" />
+  - 🌱 I’m currently studying software engineering in <img align="center" alt="html5" src="https://img.shields.io/badge/UPE-d10000" /> , universidade de pernambuco.
 
   - 🔭 I am looking for my first job opportunity.
 <!-- Dropdown -->
